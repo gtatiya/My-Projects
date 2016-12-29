@@ -3,9 +3,8 @@
 - Incorporated various hardware such as a Microcontroller (ATMEGA 16), DC Motors, LCD, DTMF decoder
 - Included circuit design and hardware programming in C
 <br>
-<br>
 
-## Hardware components used:
+## Hardware Components:
 - Micro-Controller: **ATMEGA 16**
 - LED Matrix
 - 16 x 2 LCD
